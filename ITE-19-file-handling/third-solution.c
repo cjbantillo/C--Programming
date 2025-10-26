@@ -27,7 +27,7 @@ int main(){
     //         }
     //         previous = current;
     //     }
-
+//option B if for loop is uncommented
 
         if(!isspace(current) && isspace(previous)){
             word_count++;
